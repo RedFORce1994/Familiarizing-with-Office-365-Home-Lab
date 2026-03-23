@@ -1,14 +1,12 @@
 # Familiarizing-with-Office-365-Home-Lab
 
-<h2>Overview: Familiarizing-with-Office-365-Home-Lab</h2>
+<h2>Goals</h2>
 
-> This repository provides details about my home lab initiative aimed at investigating and comprehending Office 365 in a controlled environment. The lab involves the installation and setup of Office 365 services, the administration of user accounts, and the exploration of essential features such as calendar management. In relation to calendar management, the project also includes the establishment of calendar permissions, the delegation of access rights, and the organization of shared calendars to maintain appropriate access control. 
-
-<h2>Objectives</h2> 
-- **Establish and configure Office 365 services** to grasp the fundamental elements of a cloud-based productivity platform. 
-- **Administer user accounts** to delve into user creation, roles, permissions, and the account lifecycle within Office 365. 
-- **Investigate key functionalities like calendar management** to gain understanding of scheduling, event planning, and collaborative tools. 
-- **Set up calendar to promote efficient communication within the team and manage resources effectively.
+- **Establish and configure Office 365 services** to grasp the essential elements of a cloud-based productivity framework.
+- **Administer user accounts** to investigate user creation, roles, permissions, and the account lifecycle within Office 365.
+- **Examine key functionalities such as calendar management** to acquire knowledge about scheduling, event organization, and collaboration tools.
+- **Adjust calendar permissions and delegate access rights** to guarantee accurate control over calendar visibility and editing capabilities.
+- **Create shared calendars** to enhance effective team communication and resource managemen
 
 <h2>Walkthrough</h2> 
 
